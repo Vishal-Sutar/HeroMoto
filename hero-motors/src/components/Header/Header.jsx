@@ -1,36 +1,4 @@
 
-// import { Link } from 'react-router-dom'
-
-// const Header = () => {
-//   return (
-//     <nav className="bg-white shadow-lg sticky top-0 z-50 transition-all duration-300">
-//       <div className="container mx-auto px-6 py-4">
-//         <div className="flex items-center justify-between">
-//           <div className="flex items-center">
-            //  <img src="/assets/Hero.png" class="h-10 w-10" alt="hero-logo" />
-            // <Link to="/" className="text-xl font-bold text-gray-800">HERO MOTORS</Link>
-//           </div>
-//           <div className="hidden md:flex space-x-8">
-//             <Link to="/" className="text-gray-800 hover:text-blue-600 transition-colors">Home</Link>
-//             <Link to="/models" className="text-gray-800 hover:text-blue-600 transition-colors">Models</Link>
-//             <Link to="/services" className="text-gray-800 hover:text-blue-600 transition-colors">Services</Link>
-//             <Link to="/about" className="text-gray-800 hover:text-blue-600 transition-colors">About</Link>
-//             <Link to="/contact" className="text-gray-800 hover:text-blue-600 transition-colors">Contact</Link>
-//           </div>
-//           <button className="md:hidden focus:outline-none">
-//             <svg className="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-//               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path>
-//             </svg>
-//           </button>
-//         </div>
-//       </div>
-//     </nav>
-//   )
-// }
-
-// export default Header
-
-// import { FaCar } from 'react-icons/fa'
 import { useState } from 'react'
 import { FiMenu, FiX } from 'react-icons/fi'
 import { Link } from 'react-router-dom'

@@ -14,10 +14,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Models</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors" >Sport</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors" >Adventure</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors" >Electric</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors" >Scooter</a></li>
+              <li className="text-gray-400 hover:text-white transition-colors" >Sport</li>
+              <li className="text-gray-400 hover:text-white transition-colors" >Adventure</li>
+              <li className="text-gray-400 hover:text-white transition-colors" >Electric</li>
+              <li className="text-gray-400 hover:text-white transition-colors" >Scooter</li>
             </ul>
           </div>
           <div>
@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Hero Motors. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Hero Motors. All rights reserved. Created by Vishal Sutar.</p>
         </div>
       </div>
     </footer>
