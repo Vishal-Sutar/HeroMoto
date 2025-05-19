@@ -150,24 +150,16 @@ const Contact = () => {
         
         <div className="bg-white rounded-xl shadow-lg overflow-hidden">
 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d638.0230598552529!2d74.13333219239057!3d18.487168081100982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1747500784501!5m2!1sen!2sin" 
-                width="100%" 
-                height="450"
-                style={{border:0 }}
-                allowfullscreen="" 
-                loading="lazy" 
-                title="Hero Motors Headquarters Location"
-                >
-          </iframe>
-          {/* <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256018607!2d-73.987844924164!3d40.74844047138915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1623866428430!5m2!1sen!2sus" 
-            width="100%" 
-            height="450" 
-            style={{ border: 0 }}
-            allowFullScreen="" 
-            loading="lazy"
-            title="Hero Motors Headquarters Location"
-          ></iframe> */}
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122283.79400665694!2d74.1564661212228!3d16.70845223348975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1000cdec07a29%3A0xece8ea642952e42f!2sKolhapur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1747647769981!5m2!1sen!2sin" 
+              width="100%"
+              height="500"
+              style={{border:0}}
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+
+            </iframe>
+          
         </div>
       </div>
 

@@ -33,7 +33,7 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4">Contact</h3>
             <ul className="space-y-2">
               <li className="text-gray-400">1234 Auto Drive</li>
-              <li className="text-gray-400">Detroit, MI 48201</li>
+              <li className="text-gray-400">India, MH-09</li>
               <li className="text-gray-400">(800) 555-HERO</li>
               <li className="text-gray-400">info@heromotors.com</li>
             </ul>
